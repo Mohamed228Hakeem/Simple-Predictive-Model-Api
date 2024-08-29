@@ -1,0 +1,6 @@
+@PredictiveApi_HostAddress = http://localhost:5276
+
+GET {{PredictiveApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
